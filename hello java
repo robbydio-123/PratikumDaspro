@@ -1,0 +1,10 @@
+public class Test {
+
+    public static void main(String[] args) {
+
+        System.out.println("hi nama saya robby dio di panggil ambon");
+        System.out.println("hi nama saya firdaus bisa di panggil daus");
+        System.out.println("hi nama saya dipa bisa di panggil dipa");
+
+    }
+}
