@@ -1,1 +1,1 @@
-ini adalah readme dari firdauzy yang berasal dari branch firdauzy
+ini adalah readme dari firdauzy yang berasal firdauzy
